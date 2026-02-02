@@ -48,4 +48,7 @@
 ---
 
 ### 🤝 Vamos nos conectar?
-[SEU EMAIL AQUI](mailto:seu-email@exemplo.com) | [SEU LINKEDIN](https://linkedin.com/in/seu-perfil)
+<p align="left">
+<a href="https://www.linkedin.com/in/hiago-nascimento-figueiredo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hiago Nascimento" height="30" width="40" /></a>
+<a href="mailto:figueiredoh788@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="figueiredoh788@gmail.com" height="30" width="40" /></a>
+</p>
