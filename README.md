@@ -1,16 +1,51 @@
-## Hi there 👋
+# Olá! Eu sou o Hiago 🚀
 
-<!--
-**HiagoNFxx09/hiagonfxx09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007BFF&height=200&section=header&text=Hiago%20Nunes&fontSize=70" />
+</p>
 
-Here are some ideas to get you started:
+### 🎯 Objetivo Profissional
+**Buscando atuar como Desenvolvedor de Software.** Focado em criar soluções eficientes, escaláveis e apaixonado por aprender novas tecnologias para resolver problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre mim
+- 🚀 Atualmente desenvolvendo projetos com **Java e Spring Boot**.
+- 📊 Experiência com manipulação de dados usando **Python e Pandas**.
+- 🌱 No momento, mergulhando no aprendizado de **Ruby e Ruby on Rails**.
+- 💬 Aberto a colaborações em projetos Open Source e networking.
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+**Linguagens e Frameworks:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,ruby,rails,html,css,js" />
+  </a>
+</p>
+
+**Ferramentas e Versionamento:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" />
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoNFxx09&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoNFxx09&layout=compact&langs_count=7&theme=nord"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiagoNFxx09&theme=nord" alt="Streak Stats" />
+</p>
+
+---
+
+### 🤝 Vamos nos conectar?
+[SEU EMAIL AQUI](mailto:seu-email@exemplo.com) | [SEU LINKEDIN](https://linkedin.com/in/seu-perfil)
